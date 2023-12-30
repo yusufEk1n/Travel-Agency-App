@@ -2,3 +2,12 @@ Uygulamamız bir seyahat rezervasyon uygulamasıdır. Program ilk çalıştırı
 
 ## UML DİYAGRAMI
 ![uml](/images/uml.png)
+
+## Giriş Ekranı & Kullanıcı Girişi
+![giris_kayit](/images/signin_signup.png)
+
+## Ulaşım & Konaklama
+![ulasim_konaklama](/images/accommodation_transportation.png)
+
+## Rezervasyon
+![rezervasyon](/images/reservation_report.png)
